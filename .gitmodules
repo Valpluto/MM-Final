@@ -1,0 +1,3 @@
+[submodule "ocrized-text-dataset"]
+	path = ocrized-text-dataset
+	url = https://github.com/QuickSign/ocrized-text-dataset.git
